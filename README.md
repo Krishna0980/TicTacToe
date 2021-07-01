@@ -1,5 +1,5 @@
 # TicTacToe
-__Welcome to TicTacToe game created in swift:__
+__Welcome to TicTacToe game created using CollectionView in swift:__
 * Tic-tac-toe is renowed game that has noughts and crosses, or X's and Y's, it was intially a pen-paper based game. 
 * This game creation works in a way where X and Y players, take turns marking the spaces in a 4×4 grid.
 * First sixteen attributes are representing sixteen fields on tic-tac-toe board 
