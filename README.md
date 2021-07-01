@@ -11,10 +11,12 @@ __Let's see how it works when programmatically run:__
   <img width="179" alt="1" src="https://user-images.githubusercontent.com/75938203/124137047-ed8e1180-daa2-11eb-9f33-3bab273087ba.png">
 </p>
 * X is winning the board
+
 <p>
   <img width="184" alt="2" src="https://user-images.githubusercontent.com/75938203/124137558-6ab98680-daa3-11eb-8942-93ed96d8dd7d.png">
 </p>
 * Y is winning the board
+
 <p>
   <img width="184" alt="3" src="https://user-images.githubusercontent.com/75938203/124137596-76a54880-daa3-11eb-84b4-81dd3006b7a3.png">
 </p>
