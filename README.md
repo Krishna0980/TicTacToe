@@ -1,6 +1,8 @@
 # TicTacToe
 __Welcome to TicTacToe game created using CollectionView in swift:__
-* Tic-tac-toe is renowed game that has noughts and crosses, or X's and Y's, it was intially a pen-paper based game. 
+* Tic-tac-toe is renowed game that has noughts and crosses, or X's and Y's, it was intially a pen-paper based game.
+* The collection view is illustrated by this tictactoe game and it particularly presents items onscreen using a cell, which is an instance of the UICollectionViewCell class that your data source configures and provides.
+* The collection view gets its data from the data source object, stored in the collection view’s dataSource property. 
 * This game creation works in a way where X and Y players, take turns marking the spaces in a 4×4 grid.
 * First sixteen attributes are representing sixteen fields on tic-tac-toe board 
 * Alert message is displayed when 4 fields has either only  x's or Y's which depicts winning spot where X or Y player wins.
